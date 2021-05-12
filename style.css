@@ -20,6 +20,10 @@ html, body {
     float: right;
 }
 
+#container ul{
+    list-style: circle;
+}
+
 #footer {
     height: 10%;
     background-color: grey;
